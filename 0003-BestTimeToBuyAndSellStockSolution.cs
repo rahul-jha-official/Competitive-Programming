@@ -42,7 +42,7 @@ public class BestTimeToBuyAndSellStockSolution
     }
 }
 /// <explanation>
-/// If you are buying stock, that means you having sold it, thus your current profit will be 0. This you can achieve by, when you are assigning some value to buyingPrice, assign same value to sellingPrice, so profit will be 0 (buyingPrice - sellingPrice).
+/// If you are buying stock, that means you having it, thus your current profit will be 0. This you can achieve by, when you are assigning some value to buyingPrice, assign same value to sellingPrice, so profit will be 0 (buyingPrice - sellingPrice).
 /// If you found stock price decreases set buyingPrice to the price at that day, when you set buyingPrice set the same sellingPrice
 /// In other cases set the sellingPrice to the price.
 /// Calculate maxProfit in each iteration.
