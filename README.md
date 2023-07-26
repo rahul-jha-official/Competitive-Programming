@@ -13,4 +13,4 @@ Repository will be containing the Competitive Programs
 9. Find Minimum in Rotated Sorted Array - #Blind75, #BinarySearch
 10. 3Sum - #Blind75, #BinarySearch
 11. Number of 1 Bits - #Blind75
-
+12. Missing Number - #Blind75
