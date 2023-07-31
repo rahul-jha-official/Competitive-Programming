@@ -14,3 +14,4 @@ Repository will be containing the Competitive Programs
 10. 3Sum - #Blind75, #BinarySearch
 11. Number of 1 Bits - #Blind75
 12. Missing Number - #Blind75
+13. Reverse Bit - #Blind75
