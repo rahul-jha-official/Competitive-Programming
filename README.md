@@ -15,3 +15,4 @@ Repository will be containing the Competitive Programs
 11. Number of 1 Bits - #Blind75
 12. Missing Number - #Blind75
 13. Reverse Bit - #Blind75
+14. Merge Invervals - #Blind75
