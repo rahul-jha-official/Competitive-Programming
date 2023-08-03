@@ -17,3 +17,4 @@ Repository will be containing the Competitive Programs
 13. Reverse Bit - #Blind75
 14. Merge Invervals - #Blind75
 15. Non-Overlapping Intervals - #Blind75
+16. Valid Anagram - #Blind75
