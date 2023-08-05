@@ -21,3 +21,4 @@ Repository will be containing the Competitive Programs
 17. Sum of Two Integers - #Blind75
 18. Valid Parentheses - #Blind75
 19. Valid Palindrome - #Blind75
+20. Spiral Matrix - #Blind75
