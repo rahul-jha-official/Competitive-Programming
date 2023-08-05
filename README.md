@@ -18,3 +18,6 @@ Repository will be containing the Competitive Programs
 14. Merge Invervals - #Blind75
 15. Non-Overlapping Intervals - #Blind75
 16. Valid Anagram - #Blind75
+17. Sum of Two Integers - #Blind75
+18. Valid Parentheses - #Blind75
+19. Valid Palindrome - #Blind75
