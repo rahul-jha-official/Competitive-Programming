@@ -23,3 +23,4 @@ Repository will be containing the Competitive Programs
 19. Valid Palindrome - #Blind75
 20. Spiral Matrix - #Blind75
 21. Group Anagrams - #Blind75
+22. Set Matrix Zeroes - #Blind75
