@@ -21,8 +21,9 @@ Repository will be containing the Competitive Programs
 17. Sum of Two Integers - #Blind75
 18. Valid Parentheses - #Blind75
 19. Valid Palindrome - #Blind75
-20. Spiral Matrix - #Blind75
+20. Spiral Matrix - #Blind75, #Matrix
 21. Group Anagrams - #Blind75
-22. Set Matrix Zeroes - #Blind75
+22. Set Matrix Zeroes - #Blind75, #Matrix
 23. Top K Frequent Elements - #Blind75
 24. First Missing Positive - #Blind75
+25. Rotate Image - #Blind75,#Matrix
