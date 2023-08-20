@@ -26,4 +26,4 @@ Repository will be containing the Competitive Programs
 22. Set Matrix Zeroes - #Blind75, #Matrix
 23. Top K Frequent Elements - #Blind75
 24. First Missing Positive - #Blind75
-25. Rotate Image - #Blind75,#Matrix
+25. Rotate Image - #Blind75, #Matrix
